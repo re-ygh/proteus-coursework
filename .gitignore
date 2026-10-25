@@ -1,0 +1,6 @@
+*.workspace
+*.pdsprj.*.workspace
+Project Backups/
+*.bak
+*.log
+*.tmp
